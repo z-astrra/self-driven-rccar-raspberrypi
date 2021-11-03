@@ -1,4 +1,4 @@
-The goal of this project was to steer and speed control an rc-car autonomously by avoiding obstacle.
+The goal of this project was to steer and speed control a rc-car autonomously by avoiding obstacle.
 
 Parts required:
 * rc-car (servos to steer & speed control)
