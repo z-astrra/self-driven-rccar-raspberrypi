@@ -4,5 +4,3 @@ Devices used in this project:
 * sonar sensor
 * raspberry pi
 The code reads sensor data to determine obstacle infort of it. If it gets close to any obstacle it will steer itself away from it. 
-
-The code uses python's state machine library to control the servomotor.
