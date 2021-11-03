@@ -5,5 +5,5 @@ Parts required:
 * sonar sensor
 * raspberry pi
 
-The code reads sonar sensor data to determine obstacle infort of it. If it gets close to any obstacle it will steer itself away from it. 
-In this example the car drive itself forward until it gets close any obstacle. Once it detects obstacle, it steer itself toward other direcion.
+The code reads sonar sensor data to determine obstacle Infront of it. If it gets close to any obstacle it will steer itself away from it. 
+In this example the car drive itself forward until it gets close any obstacle. Once it detects obstacle, it steer itself toward other direction.
